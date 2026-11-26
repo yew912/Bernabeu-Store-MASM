@@ -1,6 +1,6 @@
 ; ==============================================================================
 ; Proyecto Unidad 2 - Sistema de Inventario y Ventas
-; Alumno: Jesus Eduardo Diaz Gastelum
+; Alumno: Jesus Eduardo Diaz Gastelum y Alexander Gonzalez Can
 ; Materia: Lenguajes de Interfaz
 ; Regla del negocio: alerta de existencia minima (stock <= 5 despues de vender)
 ; ==============================================================================
