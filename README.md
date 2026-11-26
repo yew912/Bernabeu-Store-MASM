@@ -1,6 +1,6 @@
 # Bernabeu Store - Control de Inventario y Ventas (MASM x86)
 
-Autor: Jesus Eduardo Diaz Gastelum y Alezander Gonzalez Can
+Autor: Jesus Eduardo Diaz Gastelum y Alexander Gonzalez Can
 
 Sistema de consola hecho en ensamblador x86 (MASM) con `Irvine32` para llevar el inventario, ventas, resumen y persistencia en disco de **Bernabeu Store**.
 
